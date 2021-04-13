@@ -12,8 +12,6 @@ Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered l
 section unordered-list,
 ![4](https://user-images.githubusercontent.com/56400553/114476972-3a530200-9bb0-11eb-8d85-6543406cd1c3.png)
 
-![5](https://user-images.githubusercontent.com/56400553/114477002-476ff100-9bb0-11eb-91a1-3bafb21800d2.png)
-
 Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
 ![6](https://user-images.githubusercontent.com/56400553/114477037-5c4c8480-9bb0-11eb-8877-88b8f2765479.png)
 
